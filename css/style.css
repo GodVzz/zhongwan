@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+.wx{
+	height:126px;}
+.wx ul{
+	margin-top:16px;}
+.wx ul li{
+	width:400px;
+	height:92px;
+	position:relative;}	
+.wx ul li p{
+	font-size:18px;
+	font-family:"微软雅黑";
+	color:#127BE5;
+	background:url(../img/hot.gif) no-repeat right top;}
+.wx .zi span{
+	display:inline-block;
+	font-size:14px;
+	font-family:"微软雅黑";
+	color:black;
+	margin-top:10px;
+	line-height:25px;}
+.wx .zi{
+	position:absolute;
+	left:111px;
+	top:0px;}
+.wx ul li:nth-of-type(1,2){
+	border-right:#EDEDED 1px solid;}
+.yuming{
+	height:526px;
+	border-top:#DFDFDF 1px solid;
+	margin-top:75px;}
+.yuming .biaoti{
+	width:476px;
+	height:72px;
+	background-color:#fff;
+	margin-top:-24px;
+	margin-left:363px;
+	margin-bottom:40px;}
+.yuming .biaoti h3{
+	font-size:36px;
+	color:black;
+	text-align:center;}
+.yuming .biaoti span{
+	color:#127BE5;}
+.yuming .biaoti p{
+	font-size:14px;
+	font-family:"微软雅黑";
+	color:#656565;
+	text-align:center;}
+.yuming ul li{
+	position:relative;
+	width:285px;
+	height:379px;
+	border:#F1F1F1 1px solid;
+	float:left;
+	text-align:center;
+	margin-right:12px;}
+.yuming ul li img{
+	margin-top:30px;}
+.yuming ul li p{
+	font-size:20px;
+	margin-top:36px;
+	margin-bottom:24px;}
+.yuming ul li span{
+	font-size:16px;
+	font-family:"微软雅黑";
+	color:#656565;}	
+.yuming a{
+	display:inline-block;
+	width:174px;
+	height:38px;
+	line-height:38px;
+	text-align:center;
+	background-color:#117BE5;
+	position:absolute;
+	left:58px;
+	bottom:28px;
+	color:#fff;}	
+.zhongwanyoushi{
+	background-color:#C8C8C8;
+	height:450px;}	
+.zhongwanyoushi h3{
+	font-size:36px;
+	font-family:"微软雅黑";
+	color:#fff;
+	text-align:center;
+	padding-top:60px;}
+.zhongwanyoushi ul{
+	margin-top:64px;
+	margin-left:150px;}
+.zhongwanyoushi ul li{
+	float:left;
+	width:25%;
+	text-align:center;}
+.zhongwanyoushi ul li p{
+	font-size:18px;
+	font-family:"微软雅黑";
+	color:#fff;
+	margin-top:36px;}												
